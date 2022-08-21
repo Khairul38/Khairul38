@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Eduboard.io**
 
-- 👨‍💻 All of my projects are available at [https://khairul-alam.netlify.app/](https://khairul-alam.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://khairul-alam.netlify.app/)
 
 - 📫 How to reach me **khairulalam683@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iYB1DMtezjIXjmPVU_Fc8U_CLepxlio3/view?usp=sharing](https://drive.google.com/file/d/1iYB1DMtezjIXjmPVU_Fc8U_CLepxlio3/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iYB1DMtezjIXjmPVU_Fc8U_CLepxlio3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
