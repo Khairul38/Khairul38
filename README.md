@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khairul38" alt="khairul38" /></a> </p>
 
-- 🔭 I’m currently working on **Dhali Overseas Limited**
+- 🔭 I’m currently working at **Dhali Overseas Limited**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://khairul-alam.netlify.app/)
 
